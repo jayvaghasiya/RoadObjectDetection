@@ -1,5 +1,20 @@
 # Model Training (Yolo-nas):
 
+<p align="center">
+  <img src="samples/output.gif" alt="output">
+</p>
+
+<div style="display: flex;">
+  <img src="./evaluation-curves/F1_Score.jpg" alt="Image 1" width="300" style="margin-right: 10px;">
+  <img src="./evaluation-curves/mAP_Score.jpg" alt="Image 2" width="300">
+</div>
+
+<div style="display: flex;">
+  <img src="./evaluation-curves/Precision_Recall.jpg" alt="Image 1" width="300" style="margin-right: 10px;">
+  <img src="./evaluation-curves/Recall_Score.jpg" alt="Image 2" width="300">
+</div>
+
+
 # Steps :
 
 	1.Data gathering
